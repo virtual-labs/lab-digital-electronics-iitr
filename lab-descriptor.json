@@ -1,6 +1,6 @@
 {
     "broadArea": {
-        "name": "Electronics and Communications Engineering",
+        "name": "Electronics and Communication Engineering",
         "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
     },
     "lab": "Digital Electronics IITR",
@@ -17,13 +17,13 @@
  	        "tag": "v1.0.0",
          	"deploy": true 
             }, {
-                "name": "Construction of half/ full adder using XOR and NAND gates and verification of its operation",
+                "name": "Construction of half or full adder using XOR and NAND gates and verification of its operation",
 		"short-name": "half-full-adder",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/construction-half-full-adder-verification-of-operation-iitr",
  	        "tag": "v1.0.0",
          	"deploy": true
             }, {
-                "name": "To Study & Verify Half/Full Subtractor",
+                "name": "To Study & Verify Half or Full Subtractor",
 		"short-name": "half-full-subtractor",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/half-full-subtractor-iitr.git",
  	        "tag": "v1.0.0",
@@ -41,7 +41,7 @@
  	        "tag": "v1.0.0",
          	"deploy": true
             }, {
-                "name": "Verify the truth table of RS, JK, T and D flip-flops using NAND & NOR gates",
+                "name": "Verify the truth table of RS, JK, T and D flip-flops using NAND and NOR gates",
 		"short-name": "truth-tables-flip-flops",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-truth-table-of-flipflops-iitr.git",
  	        "tag": "v1.0.0",
@@ -53,7 +53,7 @@
  	        "tag": "v1.0.0",
         	"deploy": true
             }, {
-                "name": "Implementation and verification of decoder/de-multiplexer and encoder using logic gates",
+                "name": "Implementation and verification of decoder or de-multiplexer and encoder using logic gates",
                 "short-name": "decoder-demultiplexer-encoder",        
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verification-decoder-demultiplexer-encoder-iitr.git",
  	        "tag": "v1.0.0",
@@ -65,7 +65,7 @@
  	        "tag": "v1.0.0",
          	"deploy": true
             },{
-                "name": "Design and verify the 4- Bit Synchronous/ Asynchronous Counter using JK Flip Flop",
+                "name": "Design and verify the 4- Bit Synchronous or Asynchronous Counter using JK Flip Flop",
 		"short-name": "4bit-synchronous-asynchronous-counter",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-four-bit-synchronous-asynchronous-counter-iitr.git",
  	        "tag": "v1.0.0",

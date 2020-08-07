@@ -17,13 +17,13 @@
  	        "tag": "v1.0.0",
          	"deploy": true 
             }, {
-                "name": "Construction of half or full adder using XOR and NAND gates and verification of its operation",
+                "name": "Construction of half and full adder using XOR and NAND gates and verification of its operation",
 		"short-name": "half-full-adder",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/construction-half-full-adder-verification-of-operation-iitr",
  	        "tag": "v1.0.0",
          	"deploy": true
             }, {
-                "name": "To Study and Verify Half or Full Subtractor",
+                "name": "To Study and Verify Half and Full Subtractor",
 		"short-name": "half-full-subtractor",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/half-full-subtractor-iitr.git",
  	        "tag": "v1.0.0",

@@ -1,106 +1,114 @@
 {
-    "broadArea": {
-        "name": "Electronics and Communication Engineering",
-        "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
+  "broadArea": {
+    "name": "Electronics and Communication Engineering",
+    "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
+  },
+  "lab": "Digital Electronics IITR",
+  "phase": 3,
+  "collegeName": "IITR",
+  "baseUrl": "de-iitr.vlabs.ac.in",
+  "introduction": "Welcome to the Digital Electronics Lab",
+  "experiments": [
+    {
+      "name": "Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR, Ex-OR, Ex-NOR gates",
+      "short-name": "truth-table-gates",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verification-and-interpretation-truth-table-gates-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "lab": "Digital Electronics IITR",
-    "phase": "3",
-    "deployLab":true,
-    "collegeName": "IITR",
-    "baseUrl": "http://de-iitr.vlabs.ac.in",
-    "introduction": "Welcome to the Digital Electronics Lab",
-    "experiments": [
-            {
-                "name": "Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR, Ex-OR, Ex-NOR gates",
-                "short-name": "truth-table-gates",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verification-and-interpretation-truth-table-gates-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true 
-            }, {
-                "name": "Construction of half and full adder using XOR and NAND gates and verification of its operation",
-		"short-name": "half-full-adder",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/construction-half-full-adder-verification-of-operation-iitr",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            }, {
-                "name": "To Study and Verify Half and Full Subtractor",
-		"short-name": "half-full-subtractor",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/half-full-subtractor-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            }, {
-                "name": "Realization of logic functions with the help of Universal Gates (NAND, NOR)",
-		"short-name": "realization-of-logic-functions",	
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/realization-of-logic-functions-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            }, {
-                "name": "Construction of a NOR gate latch and verification of its operation",
-		"short-name": "nor-gate-latch",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/construction-of-nor-gate-latch-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            }, {
-                "name": "Verify the truth table of RS, JK, T and D flip-flops using NAND and NOR gates",
-		"short-name": "truth-tables-flip-flops",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-truth-table-of-flipflops-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true 
-            }, { 
-                "name": "Design and Verify the 4-Bit Serial In - Parallel Out Shift Registers",
-		"short-name": "4bit-sipo-shift-register",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/design-verify-four-bit-sipo-shift-registers-iitr.git",
- 	        "tag": "v1.0.0",
-        	"deploy": true
-            }, {
-                "name": "Implementation and verification of decoder or de-multiplexer and encoder using logic gates",
-                "short-name": "decoder-demultiplexer-encoder",        
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verification-decoder-demultiplexer-encoder-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            }, {
-                "name": "Implementation of 4x1 multiplexer and 1x4 demultiplexer using logic gates",
-		"short-name": "multiplexer-demultiplexer",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/implementation-of-multiplexer-demultiplexer-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            },{
-                "name": "Design and verify the 4- Bit Synchronous or Asynchronous Counter using JK Flip Flop",
-		"short-name": "4bit-synchronous-asynchronous-counter",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-four-bit-synchronous-asynchronous-counter-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            },{
-                "name": "Verify Binary to Gray and Gray to Binary conversion using NAND gates only",
-		"short-name": "binary-conversion",	
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-binary-to-gray-and-gray-to-binary-conversion-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            },{
-                "name": "Verify the truth table of one bit and two bit comparator using logic gates",
-		"short-name": "comparator-using-logic-gates",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-truth-table-of-one-bit-and-two-bit-comparator-iitr.git",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-            }
- 
-    ], 
-"targetAudience": {
-        "UG": [
-            "B. Tech./ B.E in Electronics and Communications"
-        ],
-        "PG": [
-            "MS/Ph. D. Beginners in Electronics and Communications and related topics"	
-        ]
+    {
+      "name": "Construction of half and full adder using XOR and NAND gates and verification of its operation",
+      "short-name": "half-full-adder",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/construction-half-full-adder-verification-of-operation-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "objective": "To learn and understand the basic concepts of digital electronics.",
-    "courseAlignment": {
-        "description": "The syllabi of this lab aligns to the following universities in India.",
-        "universities": [
-            "M. Morris Mano and M. D. Ciletti, “Digital Design”, Pearson Education.",
-            "David J. Comer, “Digital Logic & State Machine Design”, Oxford University Press",
-            "Taub, Schilieng, “Digital Integrated Electronics”.",
-            "John F Wakerly, “Digital Design: Principles and Practices”, Prentice Hall."
-        ]
+    {
+      "name": "To Study and Verify Half and Full Subtractor",
+      "short-name": "half-full-subtractor",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/half-full-subtractor-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Realization of logic functions with the help of Universal Gates (NAND, NOR)",
+      "short-name": "realization-of-logic-functions",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/realization-of-logic-functions-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Construction of a NOR gate latch and verification of its operation",
+      "short-name": "nor-gate-latch",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/construction-of-nor-gate-latch-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Verify the truth table of RS, JK, T and D flip-flops using NAND and NOR gates",
+      "short-name": "truth-tables-flip-flops",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-truth-table-of-flipflops-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design and Verify the 4-Bit Serial In - Parallel Out Shift Registers",
+      "short-name": "4bit-sipo-shift-register",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/design-verify-four-bit-sipo-shift-registers-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation and verification of decoder or de-multiplexer and encoder using logic gates",
+      "short-name": "decoder-demultiplexer-encoder",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verification-decoder-demultiplexer-encoder-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Implementation of 4x1 multiplexer and 1x4 demultiplexer using logic gates",
+      "short-name": "multiplexer-demultiplexer",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/implementation-of-multiplexer-demultiplexer-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Design and verify the 4- Bit Synchronous or Asynchronous Counter using JK Flip Flop",
+      "short-name": "4bit-synchronous-asynchronous-counter",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-four-bit-synchronous-asynchronous-counter-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Verify Binary to Gray and Gray to Binary conversion using NAND gates only",
+      "short-name": "binary-conversion",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-binary-to-gray-and-gray-to-binary-conversion-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Verify the truth table of one bit and two bit comparator using logic gates",
+      "short-name": "comparator-using-logic-gates",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-electronics-iitr/verify-truth-table-of-one-bit-and-two-bit-comparator-iitr.git",
+      "tag": "v1.0.0",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Electronics and Communications"],
+    "PG": [
+      "MS/Ph. D. Beginners in Electronics and Communications and related topics"
+    ]
+  },
+  "objective": "To learn and understand the basic concepts of digital electronics.",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": [
+      "M. Morris Mano and M. D. Ciletti, “Digital Design”, Pearson Education.",
+      "David J. Comer, “Digital Logic & State Machine Design”, Oxford University Press",
+      "Taub, Schilieng, “Digital Integrated Electronics”.",
+      "John F Wakerly, “Digital Design: Principles and Practices”, Prentice Hall."
+    ]
+  },
+  "version": "v1.0.4"
 }

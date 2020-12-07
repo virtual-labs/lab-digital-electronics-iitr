@@ -104,10 +104,14 @@
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "M. Morris Mano and M. D. Ciletti, “Digital Design”, Pearson Education.",
-      "David J. Comer, “Digital Logic & State Machine Design”, Oxford University Press",
-      "Taub, Schilieng, “Digital Integrated Electronics”.",
-      "John F Wakerly, “Digital Design: Principles and Practices”, Prentice Hall."
+      "Uttarakhand Technical University Uttarakhand",
+      "Himachal Pradesh Technical University Himachal Pradesh",
+      "Central Library, H.N.B.Garhwal University Uttarakhand",
+      "I. K. Gujral Punjab Technical University Punjab",
+      "Graphic Era University, Dehradun Uttarakhand",
+      "Quantum University Uttarakhand",
+      "Bhagwant University, Ajmer Rajasthan",
+      "Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh Uttar Pradesh"
     ]
   },
   "version": "v1.0.7"

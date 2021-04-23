@@ -4,6 +4,7 @@
     "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
   },
   "lab": "Digital Electronics IITR",
+  "display_lab_name": "Digital Electronics 1",
   "phase": 3,
   "collegeName": "IITR",
   "baseUrl": "de-iitr.vlabs.ac.in",
@@ -13,84 +14,84 @@
       "name": "Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR, Ex-OR, Ex-NOR gates",
       "short-name": "truth-table-gates",
       "repo": "https://github.com/virtual-labs/exp-truth-table-gates-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Construction of half and full adder using XOR and NAND gates and verification of its operation",
       "short-name": "half-full-adder",
       "repo": "https://github.com/virtual-labs/exp-half-full-adder-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To Study and Verify Half and Full Subtractor",
       "short-name": "half-full-subtractor",
       "repo": "https://github.com/virtual-labs/exp-half-full-subtractor-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Realization of logic functions with the help of Universal Gates (NAND, NOR)",
       "short-name": "realization-of-logic-functions",
       "repo": "https://github.com/virtual-labs/exp-realization-of-logic-functions-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Construction of a NOR gate latch and verification of its operation",
       "short-name": "nor-gate-latch",
       "repo": "https://github.com/virtual-labs/exp-nor-gate-latch-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Verify the truth table of RS, JK, T and D flip-flops using NAND and NOR gates",
       "short-name": "truth-tables-flip-flops",
       "repo": "https://github.com/virtual-labs/exp-truth-tables-flip-flops-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Design and Verify the 4-Bit Serial In - Parallel Out Shift Registers",
       "short-name": "4bit-sipo-shift-register",
       "repo": "https://github.com/virtual-labs/exp-4bit-sipo-shift-register-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Implementation and verification of decoder or de-multiplexer and encoder using logic gates",
       "short-name": "decoder-demultiplexer-encoder",
       "repo": "https://github.com/virtual-labs/exp-decoder-demultiplexer-encoder-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Implementation of 4x1 multiplexer and 1x4 demultiplexer using logic gates",
       "short-name": "multiplexer-demultiplexer",
       "repo": "https://github.com/virtual-labs/exp-multiplexer-demultiplexer-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Design and verify the 4- Bit Synchronous or Asynchronous Counter using JK Flip Flop",
       "short-name": "4bit-synchronous-asynchronous-counter",
       "repo": "https://github.com/virtual-labs/exp-4bit-synchronous-asynchronous-counter-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Verify Binary to Gray and Gray to Binary conversion using NAND gates only",
       "short-name": "binary-conversion",
       "repo": "https://github.com/virtual-labs/exp-binary-conversion-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Verify the truth table of one bit and two bit comparator using logic gates",
       "short-name": "comparator-using-logic-gates",
       "repo": "https://github.com/virtual-labs/exp-comparator-using-logic-gates-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -114,5 +115,57 @@
       "Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh Uttar Pradesh"
     ]
   },
-  "version": "v1.1.4"
+  "version": "v1.1.5",
+  "exp_name": "Verify the truth table of one bit and two bit comparator using logic gates",
+  "exp_short_name": "comparator-using-logic-gates",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pre Test"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Post Test"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ]
 }

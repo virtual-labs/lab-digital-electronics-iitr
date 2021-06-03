@@ -115,7 +115,7 @@
       "Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh Uttar Pradesh"
     ]
   },
-  "version": "v1.2.0",
+  "version": "v1.3.0",
   "exp_name": "Verify the truth table of one bit and two bit comparator using logic gates",
   "exp_short_name": "comparator-using-logic-gates",
   "production": true,

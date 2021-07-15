@@ -63,14 +63,14 @@
       "name": "Implementation and verification of decoder or de-multiplexer and encoder using logic gates",
       "short-name": "decoder-demultiplexer-encoder",
       "repo": "https://github.com/virtual-labs/exp-decoder-demultiplexer-encoder-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Implementation of 4x1 multiplexer and 1x4 demultiplexer using logic gates",
       "short-name": "multiplexer-demultiplexer",
       "repo": "https://github.com/virtual-labs/exp-multiplexer-demultiplexer-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -84,7 +84,7 @@
       "name": "Verify Binary to Gray and Gray to Binary conversion using NAND gates only",
       "short-name": "binary-conversion",
       "repo": "https://github.com/virtual-labs/exp-binary-conversion-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {

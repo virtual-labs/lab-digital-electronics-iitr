@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electronics and Communication Engineering",
-    "link": "http://www.vlab.co.in/broad-area-electronics-and-communications"
+    "link": "http://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code":"ECE"
   },
   "lab": "Digital Electronics IITR",
   "display_lab_name": "Digital Electronics 1",

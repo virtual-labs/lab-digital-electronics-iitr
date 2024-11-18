@@ -2,7 +2,7 @@
   "broadArea": {
     "name": "Electronics and Communication Engineering",
     "link": "http://www.vlab.co.in/broad-area-electronics-and-communications",
-    "code":"ECE"
+    "code": "ECE"
   },
   "lab": "Digital Electronics IITR",
   "display_lab_name": "Digital Electronics 1",
@@ -16,7 +16,7 @@
       "name": "Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR, Ex-OR, Ex-NOR gates",
       "short-name": "truth-table-gates",
       "repo": "https://github.com/virtual-labs/exp-truth-table-gates-iitr",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -98,7 +98,9 @@
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in Electronics and Communications"],
+    "UG": [
+      "B. Tech./ B.E in Electronics and Communications"
+    ],
     "PG": [
       "MS/Ph. D. Beginners in Electronics and Communications and related topics"
     ]
@@ -168,6 +170,10 @@
       "source": "references.md",
       "label": "References"
     },
-    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+    {
+      "item": "feedback",
+      "target": "feedback.html",
+      "label": "Feedback"
+    }
   ]
 }
